@@ -1,0 +1,8 @@
+.idea
+.env
+*.zip
+*.sql
+/openssl_keys
+/redis
+/wordpress
+/mysql
