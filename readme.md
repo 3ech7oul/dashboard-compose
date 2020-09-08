@@ -6,3 +6,5 @@ UID=1000
 GUID=1000
 DB_PORT=9306
 ````
+
+Working directory `./shared/app`
